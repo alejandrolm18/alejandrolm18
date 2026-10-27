@@ -1,5 +1,5 @@
 {
- "key": "cad0967c",
+ "key": "f9c3d67d",
  "stars": 0,
  "contributions": 3,
  "repos": 2,
@@ -89,9 +89,13 @@
    {
     "c": 2,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null,
    null,
    null,
